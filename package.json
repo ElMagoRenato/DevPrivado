@@ -1,8 +1,8 @@
 {
     "name": "Makova-Launcher",
     "preductname": "MLKVC3 Launcher",
-    "version": "1.2.8",
-    "description": "Launcher de Minecraft Oficial MalkovaCraft 3",
+    "version": "1.0",
+    "description": "Launcher de Minecraft Oficial MalkovaCraft 4",
     "main": "src/app.js",
     "author": "ElMagoRenato",
     "url": "http://158.179.219.58/archivos2/",
